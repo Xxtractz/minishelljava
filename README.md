@@ -1,2 +1,2 @@
 # minishelljava
-Recreating terminal in Java using codecrafters
+Recreating terminal in Java inspiredcodecrafters
